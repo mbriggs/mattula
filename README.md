@@ -4,8 +4,8 @@
 This is my theme. There are many themes like it, but this one is
 mine.
 
-|      | Mattula         | Darcula         |
-|      |-----------------|-----------------|
+| Lang | Mattula         | Darcula         |
+|------|-----------------|-----------------|
 | html | ![html][m-html] | ![html][d-html] |
 | sass | ![sass][m-sass] | ![sass][d-sass] |
 | js   | ![js][m-js]     | ![js][d-js]     |
