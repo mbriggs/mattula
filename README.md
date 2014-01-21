@@ -4,11 +4,11 @@
 This is my theme. There are many themes like it, but this one is
 mine.
 
-| Mattula         | Darcula         |
-|-----------------|-----------------|
-| ![html][m-html] | ![html][d-html] |
-| ![sass][m-sass] | ![sass][d-sass] |
-| ![js][m-js]     | ![js][d-js]     |
+|      | Mattula         | Darcula         |
+|      |-----------------|-----------------|
+| html | ![html][m-html] | ![html][d-html] |
+| sass | ![sass][m-sass] | ![sass][d-sass] |
+| js   | ![js][m-js]     | ![js][d-js]     |
 
 [m-html]: https://raw.github.com/mbriggs/mattula/master/mattula%20-%20html.png
 [m-sass]: https://raw.github.com/mbriggs/mattula/master/mattula%20-%20sass.png
